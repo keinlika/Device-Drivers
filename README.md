@@ -49,7 +49,7 @@ This project is a simple home security system implemented on an STM32 microcontr
 *Table 1: Test plan with expected and observed results.*
 
 ## Evidence of Correct Operation
-[Link to Video Demonstration](https://vimeo.com/832804107)
+[Link to Video Demonstration](https://vimeo.com/1024617014?share=copy)
 
 ## Code Files
 - `main.c`: Contains the main program for the security system.
