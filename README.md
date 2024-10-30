@@ -3,12 +3,6 @@
 ## Project Overview
 This project is a simple home security system implemented on an STM32 microcontroller. It utilizes device drivers to manage GPIO pins for input and output, enabling sensors to detect unauthorized entry and LEDs to signal alarms. The system can be armed and disarmed using buttons, with specific alarms triggered by various entry points (doors, windows).
 
-## Lab Objectives
-- Learn to create custom device drivers.
-- Test device drivers by integrating them with a hardware security system.
-- Implement a functional security system requiring I/O operations.
-- Use and modify a microcontroller’s device drivers.
-
 ## Hardware Schematic
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/04c842ef-e91a-44e4-9db2-6d7571eed0d2">
 
