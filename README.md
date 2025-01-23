@@ -1,4 +1,4 @@
-# Device Drivers - Home Security System Using STM32 Microcontroller 
+# Home Security System Using STM32 Microcontroller 
 
 ## Project Overview
 This project is a simple home security system implemented on an STM32 microcontroller. It utilizes device drivers to manage GPIO pins for input and output, enabling sensors to detect unauthorized entry and LEDs to signal alarms. The system can be armed and disarmed using buttons, with specific alarms triggered by various entry points (doors, windows).
